@@ -17,3 +17,15 @@ Para poder usar django nesesitas los siguientes elementos:
 * Editor de texto
 * Navegador web
 * **Voluntad de aprender**. 
+
+### Bases de Django
+primero devemos abordar lo que normalmente usaras en Django para que funcione de forma correcta.
+
+#### Urls:
+Las url es la forma en la diferentes clientes se comunicaran con nosotros, por ejemplo github posee la url "https://github.com" esta url permite que nos comuniquemos con los sevidores y pagina de github, nosotros devemos crear nuestras propias url.
+
+#### Vistas:
+Las vistas son las encargadas de recivir la peticion del cliente y dependiendo de los datos que se le den envie los datos nesesarios, los datos que la vista nesesita se pasan atravez de la url, estas son muy importantes ya que sin ellas no sabriamos que datos devemos enviar al cliente es por ello que tambien cuentan con logica que nosotros devemos darle.
+
+#### Modelos:
+Los modelos en django sirven para poder crear objetos 
