@@ -6,6 +6,8 @@ Para trabajar en algo primero debes conocerlo, en base a eso ¿ Sabes que es la 
 
 El servidor es una computadora que envía datos a otra computadora la cual seria el cliente, este consume los datos que el servidor le dio, una computadora puede fungir tanto como cliente como servidor, por ejemplo cuando tu descargas un archivo estas fungiendo como un cliente y cuando tu estas pasando un archivo a un amigo estas fungiendo como un servidor,El servidor aunque suene muy técnico es solo una computadora que como su nombre dice sirve los datos al cliente.
 
+Al final del día la red son muchas computadoras conectadas a larga distancia intercambiando datos constantemente
+
 ![sin nombre](http://www.cavsi.com/preguntasrespuestas/images/redes/que-es-una-red.jpg)
 
 ### Bases http
